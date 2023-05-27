@@ -52,7 +52,7 @@ Contributions to the Used Car Price Prediction System are welcome. If you find a
 
 
 
-## Check out working of the Streamlit app [here](https://spark1810-used-car-pric-used-car-price-prediction-system-tpngdx.streamlit.app/).
+## Check out working of the Streamlit app [Click here!](https://spark1810-used-car-pric-used-car-price-prediction-system-tpngdx.streamlit.app/).
 
 Replace the URL `https://spark1810-used-car-pric-used-car-price-prediction-system-tpngdx.streamlit.app/` with the actual URL of your deployed Streamlit app.
 
