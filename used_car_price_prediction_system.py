@@ -5,7 +5,7 @@ import seaborn as sns
 import pickle
 from PIL import Image
 import time 
-
+ 
 sns.set()
 
 st.title("USED CAR PRICE PREDICTION SYSTEM")
