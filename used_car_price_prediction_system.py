@@ -8,7 +8,7 @@ import time
 
 sns.set()
 
-st.title("USED CAR PRICE PREDICTION SYSTEM")
+st.title("USED CAR PRICE PREDICTION SYSTEM") 
 
 activities = ["Introduction", "Prediction","About Us"]
 choice = st.sidebar.selectbox("Select Activities", activities)
