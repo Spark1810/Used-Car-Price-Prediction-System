@@ -195,6 +195,5 @@ elif choice == 'Dashboard':
 
 # ============================================================================================
 elif choice == "About Us":
-    st.header("CREATED BY _**ARUN PRASATH  G - 21BIT009**_")
-    st.subheader("UNDER THE GUIDANCE OF Mr.S. VETRIVEL")
+    st.header("CREATED BY _**Sudharshan Vijay SK**_")
 
